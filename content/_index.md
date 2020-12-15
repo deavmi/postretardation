@@ -10,7 +10,7 @@ title = "The Post-Meritocracy Manifesto"
 
 Meritocracy is a founding principle of the open source movement, and the ideal of meritocracy is perpetuated throughout our field in the way people are recruited, hired, retained, promoted, and valued.
 
-But some people believe that the idea of who does the best and who scores the best is more valuable than one who does so to a lesser extent is rightehous.
+But some people believe that the idea of who does the best and who scores the best is more valuable than one who does so to a lesser extent is rightehous. **It is!**
 
 ## Our Values
 
