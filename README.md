@@ -1,5 +1,5 @@
-# The Post-Meritocracy Manifesto
-A project to communicate the values and principals of software developers in the post-meritocracy world.
+# The Post-Retardation Manifesto
+A project to counter the literal degeneracy being spewed but scum at [Post Meritocracy](https://postmeritocracy.org/).
 
 ## The manifesto web page
 This repository is the source code for the <https://postmeritocracy.org/> web page, which shows the manifesto and its signatories.
